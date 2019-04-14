@@ -1,3 +1,11 @@
+# Task 1
+
+## Queries
+
+```prolog
+isGreater(apple, cherry);
+```
+
 # Task 2
 
 ## Queries
