@@ -25,3 +25,11 @@ has_gone(X, grandpa), has_gone(X, grandma).
 ```prolog
 ch(X).
 ```
+
+# Task 3
+
+## Queries
+
+```prolog
+tours(Ivanov, Petrov, Vase4kin).
+```
