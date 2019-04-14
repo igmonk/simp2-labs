@@ -1,5 +1,11 @@
 # Task 1
 
+## Consulting
+
+```bash
+swipl task1.pl
+```
+
 ## Queries
 
 ```prolog
@@ -7,6 +13,12 @@ isGreater(apple, cherry);
 ```
 
 # Task 2
+
+## Consulting
+
+```bash
+swipl task2.pl
+```
 
 ## Queries
 
@@ -27,6 +39,12 @@ ch(X).
 ```
 
 # Task 3
+
+## Consulting
+
+```bash
+swipl task3.pl
+```
 
 ## Queries
 
